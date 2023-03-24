@@ -1,0 +1,14 @@
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.deps.json
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.dll
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.pdb
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.dll
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.dll
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.pdb
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.pdb
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.csproj.CopyComplete
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.dll
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Infrastructure\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Infrastructure.pdb

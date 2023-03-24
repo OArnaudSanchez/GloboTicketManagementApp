@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application.UnitTests\\GloboTIcket.TicketManagement.Application.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application.UnitTests\\GloboTIcket.TicketManagement.Application.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application.UnitTests\\GloboTIcket.TicketManagement.Application.UnitTests.csproj",
+        "projectName": "GloboTIcket.TicketManagement.Application.UnitTests",
+        "projectPath": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application.UnitTests\\GloboTIcket.TicketManagement.Application.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Oasan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application\\GloboTIcket.TicketManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application\\GloboTIcket.TicketManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application\\GloboTIcket.TicketManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application\\GloboTIcket.TicketManagement.Application.csproj",
+        "projectName": "GloboTIcket.TicketManagement.Application",
+        "projectPath": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application\\GloboTIcket.TicketManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Oasan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Domain\\GloboTIcket.TicketManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Domain\\GloboTIcket.TicketManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Domain\\GloboTIcket.TicketManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Domain\\GloboTIcket.TicketManagement.Domain.csproj",
+        "projectName": "GloboTIcket.TicketManagement.Domain",
+        "projectPath": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Domain\\GloboTIcket.TicketManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Oasan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oasan\\source\\repos\\GloboTIcket.TicketManagement\\GloboTIcket.TicketManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

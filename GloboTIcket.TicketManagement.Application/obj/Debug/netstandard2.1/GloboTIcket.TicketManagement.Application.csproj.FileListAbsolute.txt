@@ -1,0 +1,12 @@
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.deps.json
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.dll
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.pdb
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.dll
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.pdb
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.AssemblyInfo.cs
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.csproj.CopyComplete
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.dll
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Application\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Application.pdb

@@ -1,0 +1,9 @@
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Domain\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.deps.json
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Domain\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.dll
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Domain\bin\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.pdb
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.dll
+C:\Users\Oasan\source\repos\GloboTIcket.TicketManagement\GloboTIcket.TicketManagement.Domain\obj\Debug\netstandard2.1\GloboTIcket.TicketManagement.Domain.pdb
